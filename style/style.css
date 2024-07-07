@@ -1,0 +1,119 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    background-color: #AAABB8;
+    font-family: Georgia, serif;
+}
+
+.container {
+    background-color: #ECECEC;
+    border-radius: 8px;
+    padding: 10px;
+    width: 70%;
+    margin: 150px auto 0 auto;
+}
+
+.frame {
+    display: flex; /* Display the containers side by side */
+    justify-content: center; /* Center the containers horizontally */
+    align-items: flex-start; /* Align the containers at the top */
+}
+
+/* Scatter Plot Container styles */
+.chart-container {
+    width: 50%; /* Set the width to 50% for two containers side by side */
+    height: 300px;
+}
+
+/* Right Container styles */
+.right-container {
+    width: 40%; /* Set the width to 50% for two containers side by side */
+}
+
+/* Center text */
+.text-center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #2C2C54;
+    margin: 0 10px;
+}
+
+a:hover {
+    color: #474787;
+}
+
+.square-container {
+    width: 98%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 40px;
+    box-sizing: border-box;
+    margin: 18px;
+    text-align: center;
+}
+
+/* Specific background colors for countries */
+.square-container.usa {
+    background-color: #ECECEC;
+}
+
+.square-container.canada {
+    background-color: #ECECEC;
+}
+
+.square-container.mexico {
+    background-color: #ECECEC;
+}
+
+.square-container.france {
+    background-color: #ECECEC;
+}
+
+/* Specific height for Germany and Italy containers */
+.square-container.germany {
+    background-color: #ECECEC;
+    height: 390px; /* Adjust the height as needed */
+    width: 500px;
+}
+
+.square-container.italy {
+    background-color: #ECECEC;
+    height: 320px; /* Adjust the height as needed */
+}
+
+/* Legends styles */
+.legend-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 20px;
+}
+
+.legend {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.legend-color {
+    width: 18px;
+    height: 18px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+.legend-text {
+    font-size: 15px;
+}

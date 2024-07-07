@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="331.29259"
+       y="152.76269"
+       width="478.53374"
+       height="75.461089"
+       id="rect4" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ccbed4;fill-opacity:1;stroke-width:0.902514"
+       id="rect1"
+       width="1119.0327"
+       height="796.94269"
+       x="1.8405155"
+       y="-1.8405118" />
+    <rect
+       style="fill:#140719;fill-opacity:1;stroke-width:1.46546"
+       id="rect3"
+       width="1119.0327"
+       height="60.736973"
+       x="3.68102"
+       y="5.5324472e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:1.06674"
+       x="353.63419"
+       y="43.125919"
+       id="text3"
+       transform="scale(1.0650662,0.93890879)"><tspan
+         id="tspan3"
+         x="353.63419"
+         y="43.125919"
+         style="fill:#f9f9f9;stroke-width:1.06674">Navigation Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:1.00157" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke-width:2.8223"
+       x="431.79205"
+       y="237.71234"
+       id="text5"
+       transform="scale(0.99006476,1.0100349)"><tspan
+         id="tspan5"
+         x="431.79205"
+         y="237.71234"
+         style="stroke-width:2.8223">Title</tspan></text>
+  </g>
+  <rect
+     style="fill:#dfcdfb;fill-opacity:1;stroke-width:1.60226"
+     id="rect2"
+     width="418.81717"
+     height="309.20642"
+     x="128.53485"
+     y="288.25421"
+     ry="0" />
+  <rect
+     style="fill:#dfcdfb;fill-opacity:1;stroke-width:1.63959"
+     id="rect2-7"
+     width="438.56131"
+     height="309.20642"
+     x="597.43372"
+     y="288.30197"
+     ry="0" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:23.6695px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#ab50d0;fill-opacity:1;stroke-width:1.48167"
+     x="186.25023"
+     y="407.3349"
+     id="text2"
+     transform="scale(0.9172054,1.0902683)"><tspan
+       id="tspan2"
+       x="186.25023"
+       y="407.3349"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.2288px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:1.48167">Scatter Plot</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:23.6695px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#ab50d0;fill-opacity:1;stroke-width:1.48167"
+     x="716.34027"
+     y="412.48346"
+     id="text2-1"
+     transform="scale(0.91720542,1.0902683)"><tspan
+       id="tspan2-7"
+       x="716.34027"
+       y="412.48346"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.2288px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:1.48167">Scatter Plot</tspan></text>
+</svg>

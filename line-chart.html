@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Line Chart</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="../style/styleLC.css">
+</head>
+<body>
+    <!-- Navigation bar (unchanged) -->
+    <div class="navbar">
+        <a href="index.html">Home</a>
+        <a href="table.html">Table</a>
+        <a href="barchart.html">Bar Chart</a>
+        <a href="scatterplot.html">Scatter Plot</a>
+        <a href="line-chart.html">Line Chart</a>
+        <a href="pie-chart.html">Pie Chart</a>
+        <a href="dot-map.html">Dot Map</a>
+        <a href="choropleth-map.html">Choropleth Map</a>
+        <a href="proportional-symbol-map.html">Proportional Symbol Map</a>
+    </div>
+
+    <!-- Container for centering and framing the chart -->
+    <div class="chart-container">
+        <!-- Frame around the chart -->
+        <div class="frame">
+            <!-- Title -->
+            <h2 style="text-align: center;">International Migrant Stock Over Time</h2>
+            <!-- Legend -->
+            <div class="legend" id="legend"></div>
+            <!-- SVG container for the Grouped Bar Chart -->
+            <svg width="100%" height="450px" id="lineChart"></svg>
+            <!-- Tooltip -->
+            <div class="tooltip" id="tooltip"></div>
+        </div>
+    </div>
+    <script src="../JavaScript/line-chart.js"></script>
+</body>
+</html>
+
+

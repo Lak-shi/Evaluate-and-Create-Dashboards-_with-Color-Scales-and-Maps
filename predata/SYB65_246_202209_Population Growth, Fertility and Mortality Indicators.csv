@@ -1,0 +1,97 @@
+Country,Year,Series,Value
+Brazil,2010,"Infant mortality for both sexes (per 1,000 live births)",16.5
+Brazil,2015,"Infant mortality for both sexes (per 1,000 live births)",14.1
+Brazil,2017,"Infant mortality for both sexes (per 1,000 live births)",13.7
+Brazil,2022,"Infant mortality for both sexes (per 1,000 live births)",12.3
+Brazil,2010,Life expectancy at birth for both sexes (years),73.2
+Brazil,2015,Life expectancy at birth for both sexes (years),74.3
+Brazil,2017,Life expectancy at birth for both sexes (years),74.8
+Brazil,2022,Life expectancy at birth for both sexes (years),73.4
+Brazil,2010,Population annual rate of increase (percent),0.9
+Brazil,2015,Population annual rate of increase (percent),0.8
+Brazil,2017,Population annual rate of increase (percent),0.8
+Brazil,2022,Population annual rate of increase (percent),0.5
+Brazil,2010,Total fertility rate (children per women),1.8
+Brazil,2015,Total fertility rate (children per women),1.8
+Brazil,2017,Total fertility rate (children per women),1.7
+Brazil,2022,Total fertility rate (children per women),1.6
+India,2010,"Infant mortality for both sexes (per 1,000 live births)",45.2
+India,2015,"Infant mortality for both sexes (per 1,000 live births)",34.7
+India,2017,"Infant mortality for both sexes (per 1,000 live births)",31.1
+India,2022,"Infant mortality for both sexes (per 1,000 live births)",26.3
+India,2010,Life expectancy at birth for both sexes (years),66.9
+India,2015,Life expectancy at birth for both sexes (years),69.6
+India,2017,Life expectancy at birth for both sexes (years),70.5
+India,2022,Life expectancy at birth for both sexes (years),67.7
+India,2010,Population annual rate of increase (percent),1.4
+India,2015,Population annual rate of increase (percent),1.2
+India,2017,Population annual rate of increase (percent),1.1
+India,2022,Population annual rate of increase (percent),0.7
+India,2010,Total fertility rate (children per women),2.6
+India,2015,Total fertility rate (children per women),2.3
+India,2017,Total fertility rate (children per women),2.2
+India,2022,Total fertility rate (children per women),2.0
+Japan,2010,"Infant mortality for both sexes (per 1,000 live births)",2.3
+Japan,2015,"Infant mortality for both sexes (per 1,000 live births)",2.0
+Japan,2017,"Infant mortality for both sexes (per 1,000 live births)",1.8
+Japan,2022,"Infant mortality for both sexes (per 1,000 live births)",1.7
+Japan,2010,Life expectancy at birth for both sexes (years),82.9
+Japan,2015,Life expectancy at birth for both sexes (years),83.9
+Japan,2017,Life expectancy at birth for both sexes (years),84.2
+Japan,2022,Life expectancy at birth for both sexes (years),84.8
+Japan,2010,Population annual rate of increase (percent),0.0
+Japan,2015,Population annual rate of increase (percent),-0.2
+Japan,2017,Population annual rate of increase (percent),-0.3
+Japan,2022,Population annual rate of increase (percent),-0.5
+Japan,2010,Total fertility rate (children per women),1.4
+Japan,2015,Total fertility rate (children per women),1.4
+Japan,2017,Total fertility rate (children per women),1.4
+Japan,2022,Total fertility rate (children per women),1.3
+South Africa,2010,"Infant mortality for both sexes (per 1,000 live births)",35.1
+South Africa,2015,"Infant mortality for both sexes (per 1,000 live births)",27.8
+South Africa,2017,"Infant mortality for both sexes (per 1,000 live births)",23.4
+South Africa,2022,"Infant mortality for both sexes (per 1,000 live births)",28.1
+South Africa,2010,Life expectancy at birth for both sexes (years),58.9
+South Africa,2015,Life expectancy at birth for both sexes (years),64.0
+South Africa,2017,Life expectancy at birth for both sexes (years),65.4
+South Africa,2022,Life expectancy at birth for both sexes (years),61.5
+South Africa,2010,Population annual rate of increase (percent),1.2
+South Africa,2015,Population annual rate of increase (percent),2.4
+South Africa,2017,Population annual rate of increase (percent),1.2
+South Africa,2022,Population annual rate of increase (percent),0.8
+South Africa,2010,Total fertility rate (children per women),2.4
+South Africa,2015,Total fertility rate (children per women),2.4
+South Africa,2017,Total fertility rate (children per women),2.3
+South Africa,2022,Total fertility rate (children per women),2.3
+Turkey,2010,"Infant mortality for both sexes (per 1,000 live births)",15.3
+Turkey,2015,"Infant mortality for both sexes (per 1,000 live births)",11.0
+Turkey,2017,"Infant mortality for both sexes (per 1,000 live births)",9.7
+Turkey,2022,"Infant mortality for both sexes (per 1,000 live births)",7.7
+Turkey,2010,Life expectancy at birth for both sexes (years),75.1
+Turkey,2015,Life expectancy at birth for both sexes (years),76.6
+Turkey,2017,Life expectancy at birth for both sexes (years),77.1
+Turkey,2022,Life expectancy at birth for both sexes (years),78.5
+Turkey,2010,Population annual rate of increase (percent),1.3
+Turkey,2015,Population annual rate of increase (percent),1.7
+Turkey,2017,Population annual rate of increase (percent),0.9
+Turkey,2022,Population annual rate of increase (percent),0.6
+Turkey,2010,Total fertility rate (children per women),2.1
+Turkey,2015,Total fertility rate (children per women),2.2
+Turkey,2017,Total fertility rate (children per women),2.1
+Turkey,2022,Total fertility rate (children per women),1.9
+Vietnam,2010,"Infant mortality for both sexes (per 1,000 live births)",18.0
+Vietnam,2015,"Infant mortality for both sexes (per 1,000 live births)",17.2
+Vietnam,2017,"Infant mortality for both sexes (per 1,000 live births)",16.9
+Vietnam,2022,"Infant mortality for both sexes (per 1,000 live births)",15.0
+Vietnam,2010,Life expectancy at birth for both sexes (years),73.5
+Vietnam,2015,Life expectancy at birth for both sexes (years),73.9
+Vietnam,2017,Life expectancy at birth for both sexes (years),74.0
+Vietnam,2022,Life expectancy at birth for both sexes (years),74.6
+Vietnam,2010,Population annual rate of increase (percent),1.1
+Vietnam,2015,Population annual rate of increase (percent),1.0
+Vietnam,2017,Population annual rate of increase (percent),0.9
+Vietnam,2022,Population annual rate of increase (percent),0.7
+Vietnam,2010,Total fertility rate (children per women),1.9
+Vietnam,2015,Total fertility rate (children per women),2.0
+Vietnam,2017,Total fertility rate (children per women),1.9
+Vietnam,2022,Total fertility rate (children per women),1.9

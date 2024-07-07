@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proportional Symbol Map</title>
+    <!-- Include D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="../style/stylePSM.css">
+</head>
+<body>
+    <div class="container mt-4 text-center align-items-center">
+        <!-- Navigation bar -->
+        <div class="navbar">
+            <a href="index.html">Home</a>
+            <a href="table.html">Table</a>
+            <a href="barchart.html">Bar Chart</a>
+            <a href="scatterplot.html">Scatter Plot</a>
+            <a href="line-chart.html">Line Chart</a>
+            <a href="pie-chart.html">Pie Chart</a>
+            <a href="dot-map.html">Dot Map</a>
+            <a href="choropleth-map.html">Choropleth Map</a>
+            <a href="proportional-symbol-map.html">Proportional Symbol Map</a>
+        </div>
+    
+        <!-- Container for centering and framing the chart -->
+        <div class="chart-container">
+            <!-- Frame around the chart -->
+            <div class="frame" style="margin-top: 50px; margin-right: -80px; width: 1000px;">
+                <!-- Title -->
+                <h2 style="text-align: center;">  World Infant Mortality & Life Expectancy 2022</h2>
+                <!-- Legend -->
+                <svg id="my_dataviz" width="1000" height="550"></svg>
+                <script src="../JavaScript/proportional-symbol-map.js"></script>
+                <h3 style="text-align: center;">  Infant mortality for both sexes (per 1,000 live births)</h3>
+                <h3 style="text-align: center;">Life expectancy at birth for both sexes (years)</h3>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>   

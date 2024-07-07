@@ -1,0 +1,121 @@
+Country,Year,Series,Value
+Brazil,2010,Population aged 0 to 14 years old (percentage),24.8
+Brazil,2015,Population aged 0 to 14 years old (percentage),22.5
+Brazil,2020,Population aged 0 to 14 years old (percentage),20.8
+Brazil,2022,Population aged 0 to 14 years old (percentage),20.3
+Brazil,2010,Population aged 60+ years old (percentage),10.3
+Brazil,2015,Population aged 60+ years old (percentage),11.9
+Brazil,2020,Population aged 60+ years old (percentage),13.8
+Brazil,2022,Population aged 60+ years old (percentage),14.6
+Brazil,2010,Population density,23.5
+Brazil,2015,Population density,24.6
+Brazil,2020,Population density,25.5
+Brazil,2022,Population density,25.8
+Brazil,2010,Population mid-year estimates (millions),196.35
+Brazil,2015,Population mid-year estimates (millions),205.19
+Brazil,2020,Population mid-year estimates (millions),213.20
+Brazil,2022,Population mid-year estimates (millions),215.31
+Brazil,2010,Sex ratio (males per 100 females),97.2
+Brazil,2015,Sex ratio (males per 100 females),97.0
+Brazil,2020,Sex ratio (males per 100 females),96.6
+Brazil,2022,Sex ratio (males per 100 females),96.5
+India,2010,Population aged 0 to 14 years old (percentage),31.0
+India,2015,Population aged 0 to 14 years old (percentage),28.6
+India,2020,Population aged 0 to 14 years old (percentage),26.1
+India,2022,Population aged 0 to 14 years old (percentage),25.3
+India,2010,Population aged 60+ years old (percentage),7.8
+India,2015,Population aged 60+ years old (percentage),8.9
+India,2020,Population aged 60+ years old (percentage),10.2
+India,2022,Population aged 60+ years old (percentage),10.5
+India,2010,Population density,417.3
+India,2015,Population density,444.9
+India,2020,Population density,469.7
+India,2022,Population density,476.7
+India,2010,Population mid-year estimates (millions),"1,240.61"
+India,2015,Population mid-year estimates (millions),"1,322.87"
+India,2020,Population mid-year estimates (millions),"1,396.39"
+India,2022,Population mid-year estimates (millions),"1,417.17"
+India,2010,Sex ratio (males per 100 females),107.1
+India,2015,Sex ratio (males per 100 females),106.9
+India,2020,Sex ratio (males per 100 females),106.8
+India,2022,Sex ratio (males per 100 females),106.6
+Japan,2010,Population aged 0 to 14 years old (percentage),13.2
+Japan,2015,Population aged 0 to 14 years old (percentage),12.7
+Japan,2020,Population aged 0 to 14 years old (percentage),11.9
+Japan,2022,Population aged 0 to 14 years old (percentage),11.6
+Japan,2010,Population aged 60+ years old (percentage),31.5
+Japan,2015,Population aged 60+ years old (percentage),33.9
+Japan,2020,Population aged 60+ years old (percentage),35.4
+Japan,2022,Population aged 60+ years old (percentage),35.8
+Japan,2010,Population density,340.0
+Japan,2015,Population density,337.7
+Japan,2020,Population density,332.4
+Japan,2022,Population density,328.9
+Japan,2010,Population mid-year estimates (millions),128.11
+Japan,2015,Population mid-year estimates (millions),127.25
+Japan,2020,Population mid-year estimates (millions),125.24
+Japan,2022,Population mid-year estimates (millions),123.95
+Japan,2010,Sex ratio (males per 100 females),95.0
+Japan,2015,Sex ratio (males per 100 females),94.8
+Japan,2020,Sex ratio (males per 100 females),94.6
+Japan,2022,Sex ratio (males per 100 females),94.6
+South Africa,2010,Population aged 0 to 14 years old (percentage),28.7
+South Africa,2015,Population aged 0 to 14 years old (percentage),28.3
+South Africa,2020,Population aged 0 to 14 years old (percentage),28.7
+South Africa,2022,Population aged 0 to 14 years old (percentage),28.6
+South Africa,2010,Population aged 60+ years old (percentage),7.6
+South Africa,2015,Population aged 60+ years old (percentage),8.1
+South Africa,2020,Population aged 60+ years old (percentage),8.7
+South Africa,2022,Population aged 60+ years old (percentage),8.7
+South Africa,2010,Population density,42.4
+South Africa,2015,Population density,45.8
+South Africa,2020,Population density,48.2
+South Africa,2022,Population density,49.1
+South Africa,2010,Population mid-year estimates (millions),51.78
+South Africa,2015,Population mid-year estimates (millions),55.88
+South Africa,2020,Population mid-year estimates (millions),58.80
+South Africa,2022,Population mid-year estimates (millions),59.89
+South Africa,2010,Sex ratio (males per 100 females),92.8
+South Africa,2015,Sex ratio (males per 100 females),94.5
+South Africa,2020,Sex ratio (males per 100 females),94.6
+South Africa,2022,Sex ratio (males per 100 females),94.9
+Turkey,2010,Population aged 0 to 14 years old (percentage),26.7
+Turkey,2015,Population aged 0 to 14 years old (percentage),24.6
+Turkey,2020,Population aged 0 to 14 years old (percentage),23.7
+Turkey,2022,Population aged 0 to 14 years old (percentage),23.2
+Turkey,2010,Population aged 60+ years old (percentage),9.5
+Turkey,2015,Population aged 60+ years old (percentage),10.6
+Turkey,2020,Population aged 60+ years old (percentage),12.0
+Turkey,2022,Population aged 60+ years old (percentage),12.7
+Turkey,2010,Population density,95.1
+Turkey,2015,Population density,103.5
+Turkey,2020,Population density,109.3
+Turkey,2022,Population density,110.9
+Turkey,2010,Population mid-year estimates (millions),73.20
+Turkey,2015,Population mid-year estimates (millions),79.65
+Turkey,2020,Population mid-year estimates (millions),84.14
+Turkey,2022,Population mid-year estimates (millions),85.34
+Turkey,2010,Sex ratio (males per 100 females),100.9
+Turkey,2015,Sex ratio (males per 100 females),100.8
+Turkey,2020,Sex ratio (males per 100 females),100.5
+Turkey,2022,Sex ratio (males per 100 females),100.4
+Vietnam,2010,Population aged 0 to 14 years old (percentage),24.3
+Vietnam,2015,Population aged 0 to 14 years old (percentage),23.4
+Vietnam,2020,Population aged 0 to 14 years old (percentage),22.7
+Vietnam,2022,Population aged 0 to 14 years old (percentage),22.4
+Vietnam,2010,Population aged 60+ years old (percentage),9.3
+Vietnam,2015,Population aged 60+ years old (percentage),10.9
+Vietnam,2020,Population aged 60+ years old (percentage),13.1
+Vietnam,2022,Population aged 60+ years old (percentage),13.8
+Vietnam,2010,Population density,278.9
+Vietnam,2015,Population density,294.2
+Vietnam,2020,Population density,308.4
+Vietnam,2022,Population density,313.3
+Vietnam,2010,Population mid-year estimates (millions),87.41
+Vietnam,2015,Population mid-year estimates (millions),92.19
+Vietnam,2020,Population mid-year estimates (millions),96.65
+Vietnam,2022,Population mid-year estimates (millions),98.19
+Vietnam,2010,Sex ratio (males per 100 females),97.0
+Vietnam,2015,Sex ratio (males per 100 females),97.4
+Vietnam,2020,Sex ratio (males per 100 females),97.6
+Vietnam,2022,Sex ratio (males per 100 females),97.6

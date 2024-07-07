@@ -1,0 +1,16 @@
+Country,Capital city,Year,Capital city population (as a percentage of total population),Capital city population (thousands),Rural population (percent growth rate per annum),Urban population (percent growth rate per annum)
+Brazil,Brasília,2005,1.8,3301.0,-0.5,1.7
+Brazil,Brasília,2010,1.9,3710.0,-0.8,1.4
+Brazil,Brasília,2015,2.0,4168.0,-1.0,1.2
+India,New Delhi,2005,1.6,18691.0,1.2,2.8
+India,New Delhi,2010,1.8,21988.0,1.0,2.6
+India,New Delhi,2015,2.0,25866.0,0.7,2.4
+Japan,Tokyo,2005,27.8,35622.0,-8.3,1.9
+Japan,Tokyo,2010,28.7,36860.0,-8.4,1.1
+Japan,Tokyo,2015,29.1,37256.0,-1.4,0.0
+South Africa,Cape Town,2005,2.7,1334.0,0.0,2.2
+South Africa,Cape Town,2010,3.2,1666.0,-0.3,2.0
+South Africa,Cape Town,2015,3.8,2081.0,0.0,2.2
+Turkey,Ankara,2005,5.4,3638.0,-0.4,2.4
+Turkey,Ankara,2010,5.8,4166.0,-0.7,2.1
+Turkey,Ankara,2015,5.9,4633.0,-0.4,2.4

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pie Chart Example</title>
+    <!-- Include D3.js version 7 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="../style/stylePC.css">
+</head>
+<body>
+    <!-- Navigation bar (unchanged) -->
+    <div class="navbar">
+        <a href="index.html">Home</a>
+        <a href="table.html">Table</a>
+        <a href="barchart.html">Bar Chart</a>
+        <a href="scatterplot.html">Scatter Plot</a>
+        <a href="line-chart.html">Line Chart</a>
+        <a href="pie-chart.html">Pie Chart</a>
+        <a href="dot-map.html">Dot Map</a>
+        <a href="choropleth-map.html">Choropleth Map</a>
+        <a href="proportional-symbol-map.html">Proportional Symbol Map</a>
+    </div>
+
+    <!-- Container for centering and framing the chart -->
+    <div class="chart-container">
+        <!-- Frame around the chart -->
+        <div class="frame">
+            <!-- Title -->
+            <h2 style="text-align: center;">Capital city population (thousands)</h2>
+            <div>
+                <label for="year-selector">Select Year:</label>
+                <select id="year-selector"></select>
+            </div>
+            <svg id="pie-chart" width="960" height="500"></svg>
+        </div>
+    </div>
+    <script src="../JavaScript/pie-chart.js"></script>
+</body>
+</html>

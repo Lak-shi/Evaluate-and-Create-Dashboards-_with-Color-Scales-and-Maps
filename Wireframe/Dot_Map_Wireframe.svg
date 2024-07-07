@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="331.29259"
+       y="152.76269"
+       width="478.53374"
+       height="75.461089"
+       id="rect4" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#cebdd5;fill-opacity:1;stroke-width:0.902514"
+       id="rect1"
+       width="1119.0327"
+       height="796.94269"
+       x="1.8405155"
+       y="-1.8405118" />
+    <rect
+       style="fill:#140719;fill-opacity:1;stroke-width:1.46546"
+       id="rect3"
+       width="1119.0327"
+       height="60.736973"
+       x="3.68102"
+       y="5.5324472e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:1.06674"
+       x="353.63419"
+       y="43.125919"
+       id="text3"
+       transform="scale(1.0650662,0.93890879)"><tspan
+         id="tspan3"
+         x="353.63419"
+         y="43.125919"
+         style="fill:#f9f9f9;stroke-width:1.06674">Navigation Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:1.00157" />
+  </g>
+  <rect
+     style="fill:#ebdcf5;fill-opacity:1;stroke-width:2.03026"
+     id="rect2"
+     width="572.96326"
+     height="362.89886"
+     x="303.54532"
+     y="290.53207"
+     ry="0"
+     transform="matrix(0.99999256,0.00385738,-0.0034616,0.99999401,0,0)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.1971px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke-width:1.99054"
+     x="506.09619"
+     y="400.21512"
+     id="text5"
+     transform="scale(0.98946438,1.0106478)"><tspan
+       id="tspan5"
+       x="506.09619"
+       y="400.21512"
+       style="stroke-width:1.99054">Title</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:33.6209px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#ab50d0;fill-opacity:1;stroke-width:2.10461"
+     x="400.01572"
+     y="531.99438"
+     id="text2"
+     transform="scale(0.97922582,1.0212149)"><tspan
+       id="tspan2"
+       x="400.01572"
+       y="531.99438"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.4488px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:2.10461">Dot Map</tspan></text>
+</svg>

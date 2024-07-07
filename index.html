@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Home</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../style/style.css">
+</head>
+<body>
+    <div class="container mt-4 text-center align-items-center">
+        <h1 class="text-center">
+            <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> | 
+            <a href="https://en.wikipedia.org/wiki/India">India</a> | 
+            <a href="https://en.wikipedia.org/wiki/Japan">Japan</a> | 
+            <a href="https://en.wikipedia.org/wiki/South_Africa">South Africa</a> | 
+            <a href="https://en.wikipedia.org/wiki/Turkey">Turkey</a>
+        </h1>
+    </div>
+    <div class="frame">
+        <!-- First Scatter Plot Container -->
+        <div class="chart-container">
+            <div class="square-container usa">
+                <p style="color: black; font-family: Georgia; font-size: 20px;">Turkey has a moderate % of international migrants</p>
+                <a href="table.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 30px;">Higher % of males to females</a>
+            </div>
+            <div class="square-container canada">
+                <p style="color: black; font-family: Georgia; font-size: 20px;">Brasília % of the total population increased from (2005 to 2015) &</p>
+                <a href="dot-map.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 30px;">decreased by 2020</a>
+            </div>
+            <div class="square-container mexico">
+                <a href="barchart.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 30px;">Population Annual Rate of Increase</a>
+                <p class="text-center">India having the highest increase and Japan having the lowest</p>
+            </div>
+            <div class="square-container france">
+                <a href="scatterplot.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 30px;">Sex ratio (males per 100 females)</a>
+                <p class="text-center">South Africa having a lower ratio and India having a higher ratio</p>
+            </div>
+        </div>
+        <!-- Donut Chart and Legends Container -->
+        <div class="right-container" style="height: 300px;"> <!-- Adjust the height as needed -->
+            <div class="square-container germany" style="display: flex; flex-direction: row;">
+                <div id="donut-chart" class="donut-chart" style="margin-top: -30px">
+                    <h3 class="text-center"><a href="pie-chart.html">Infant Mortality Rate by Country 2022</a></h3>
+                    <p class="text-center">Infant Mortality per 1,000 live births</p>
+                </div>
+                <div class="legend-container" style="margin-left: 20px;">
+                    <!-- Legends will be placed here -->
+                </div>
+            </div>
+            <div class="square-container italy">
+                <a href="line-chart.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 25px;">Capital City Population Growth</a>
+                <p class="text-center">New Delhi: Increased from 18,691 (in 2005) to 25,866 (in 2015)</p>
+                <a href="choropleth-map.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 25px;"> India stands out as the most populous country</a>
+                <p class="text-center">India: With a population of approximately 1.4 billion</p>
+                <a href="proportional-symbol-map.html" style="color: black; text-decoration: none; font-family: Georgia; font-weight: bold; font-size: 25px;">Infant Mortality from 2010 to 2022</a>
+                <p class="text-center">Brazil: Shows a steady decrease</p>
+            </div>
+        </div>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- Include JavaScript code to fetch and visualize data -->
+    <!-- Include Bootstrap JS and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        // Data
+        const data = [
+            { Country: "Brazil", "Infant mortality": 12.3 },
+            { Country: "India", "Infant mortality": 26.3 },
+            { Country: "Japan", "Infant mortality": 1.7 },
+            { Country: "South Africa", "Infant mortality": 28.1 },
+            { Country: "Turkey", "Infant mortality": 7.7 }
+        ];
+
+        // Define custom color scale
+        const customColorScale = d3.scaleOrdinal()
+            .range(["#2C2C54", "#474787", "#6161c0", "#8585ff", "#c5c5ff"]);
+
+        // Create a donut chart
+        const width = 300; // Increase the width value as needed
+        const height = 300; // Increase the height value as needed
+        const radius = Math.min(width, height) / 2;
+
+        const svg = d3.select("#donut-chart")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .append("g")
+            .attr("transform", `translate(${width / 2}, ${height / 2})`);
+
+        const pie = d3.pie()
+            .sort(null)
+            .value(d => d["Infant mortality"]);
+
+        const path = d3.arc()
+            .outerRadius(radius - 50)
+            .innerRadius(radius - 80);
+
+        const arcs = svg.selectAll(".arc")
+            .data(pie(data))
+            .enter()
+            .append("g")
+            .attr("class", "arc");
+
+        arcs.append("path")
+            .attr("d", path)
+            .attr("fill", (d, i) => customColorScale(i));
+
+        // Legends
+        const legendRectSize = 18;
+        const legendSpacing = 4;
+
+        const legend = d3.select(".legend-container")
+            .selectAll('.legend')
+            .data(data)
+            .enter()
+            .append('div')
+            .attr('class', 'legend')
+            .style('display', 'flex')
+            .style('align-items', 'center');
+
+        legend.append('div')
+            .attr('class', 'legend-color')
+            .style('background', (d, i) => customColorScale(i))
+            .style('width', legendRectSize + 'px')
+            .style('height', legendRectSize + 'px');
+
+        legend.append('div')
+            .attr('class', 'legend-text')
+            .text(d => d.Country)
+            .style('margin-left', legendSpacing + 'px');
+    </script>
+</body>
+</html>
